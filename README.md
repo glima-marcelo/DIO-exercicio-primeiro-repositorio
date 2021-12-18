@@ -1,6 +1,6 @@
-## DIO-exercicio-primeiro-repositorio
+# DIO-exercicio-primeiro-repositorio
 
-# Projeto - Criando meu primeiro repositório no Git/GitHub da DIO
+## Projeto - Criando meu primeiro repositório no Git/GitHub da DIO
 
 Tarefas:
 * Criar um repositório no GitHub
